@@ -43,7 +43,7 @@ change the python_version to your system version in your Pipfile
 * Goodness Ezeokafor : gootech442@gmail.com
 * Emma Nduka
 * Daniel Ogbuti
-* Justine Ogaraku : justineugoogarku@gamil.com
+* Justine Ogaraku : justineugoogarku@gmail.com
 
 ##  Demo
 <p>click this <a href ="#"> link </a></p>
